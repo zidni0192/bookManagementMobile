@@ -37,8 +37,9 @@ The purpose of this application is for people to borrow books online and easily
 ## Usage for development
 1. Open your terminal or command prompt
 2. Type `git clone https://github.com/zidni0192/bookManagementMobile`
-3. Open the folder and type `npm install` for install dependencies 
-4. Type `npm start ` for run this app.
+3. Open the folder and type `npm install` for install dependencies and `react-native link`
+4. Before run this, you must run backend first
+5. Type `react-native run-android` for run this app. ***Make sure your device is connected with debugging mode***.
 
 ## Related Project
 <a href ='https://github.com/zidni0192/back-End-Week6'>Back End Book Management</a>
